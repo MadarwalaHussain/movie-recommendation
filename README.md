@@ -170,7 +170,6 @@ Hussain Shabbir Madarwala
 
 - [TMDB](https://www.themoviedb.org/) for providing the movie database API
 - [Streamlit](https://streamlit.io/) for the amazing web framework
-- Movie dataset source (add your source here)
 
 ## 📞 Contact
 
