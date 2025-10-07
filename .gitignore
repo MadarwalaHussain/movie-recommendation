@@ -1,0 +1,61 @@
+# -----------------------------
+# Python Environment and Cache
+# -----------------------------
+myenv/
+.env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pyc
+
+# -----------------------------
+# Streamlit & Project Files
+# -----------------------------
+.streamlit/
+.DS_Store
+*.db
+*.log
+
+# -----------------------------
+# Pickle and Data Files
+# -----------------------------
+*.pkl
+*.pickle
+*.csv
+*.json
+
+# -----------------------------
+# Build / Distribution Files
+# -----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -----------------------------
+# Jupyter and Notebooks
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# OS Specific Files
+# -----------------------------
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# VS Code / PyCharm
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Environment / Config Files
+# -----------------------------
+.env
+.env.local
+.env.dev
+.env.prod
+.env.example
