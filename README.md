@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Your Name
+Hussain Shabbir Madarwala
 - GitHub: [@MadarwalaHussain](https://github.com/MadarwalaHussain)
 - LinkedIn: [Hussain Madarwala](https://www.linkedin.com/in/hussain-m-8215b6104/)
 
